@@ -7,8 +7,7 @@ const DashboardPage = () => {
     <div>
       <h1 className="text-2xl font-bold mb-5">Dashboard</h1>
       <p className="mb-5">
-        Welcome to Dashboard. This page shows the personal information of the
-        logged-in user.
+        HI, my name is Songkungsun
       </p>
       <p>userId : {userId}</p>
     </div>
